@@ -1,0 +1,148 @@
+,Bedrooms,Bathrooms,Facing,Furnishing,Tennants,Area,Locality,Location,Price
+0,2 BHK Apartment,2,EAST,Semi-Furnished,Bachelors/Family,1250 sqft,Attapur,Attapur,18168.016324119875
+1,2 BHK Apartment,1,NORTH,Semi-Furnished,Bachelors,1350 sqft,"Manikonda, Outer Ring Road",Manikonda,20744.07864505366
+2,2 BHK Apartment,1,EAST,Semi-Furnished,Bachelors/Family,1314 sqft,"My Home Avatar, My home avatar",Narsingi,20155.547957617546
+3,3 BHK Apartment,1,NORTH,Semi-Furnished,Bachelors/Family,2000 sqft,"Lakdikapul, NH",Nampally,32545.573018985062
+4,2 BHK Apartment,1,WEST,Semi-Furnished,Bachelors,1200 sqft,"Lingampally-Serilingampally, NH",Miyapur,18336.93742732767
+5,3 BHK Apartment,4,immediately,Semi-Furnished,Bachelors/Family,2580 sqft,Whitefields,Gachibowli,39386.92581827537
+6,2 BHK Apartment,2,WEST,Unfurnished,Bachelors,1260 sqft,Kondapur,Kondapur,16017.693383846894
+7,3 BHK Service Apartment,1,WEST,Furnished,Bachelors,1460 sqft,Shamshabad,Shamshabad,29906.06953608047
+8,3 BHK Apartment,1,SOUNTH,Semi-Furnished,Bachelors,2092 sqft,"Morning Raga, Alkapur Township, Manikonda, Outer Ring Road",Manikonda,34395.85984492174
+9,3 BHK Builder Floor,2,read more,Furnished,Family,1700 sqft,"Dilsukh Nagar, NH",Dilsukh Nagar,31181.22330875674
+10,3 BHK Apartment,2,read more,Semi-Furnished,Bachelors/Family,1500 sqft,Brindavan Colony-Toli Chowki,Mehdipatnam,21547.857703849095
+11,2 BHK Apartment,2,read more,Semi-Furnished,Bachelors/Family,1314 sqft,"My Home Avatar, Narsingi, Outer Ring Road",Narsingi,19001.880685691896
+12,2 BHK Builder Floor,2,SOUNTH,Furnished,Bachelors/Family,950 sqft,"Himayath Nagar, NH",Himayatnagar,23439.70837731101
+13,2 BHK Apartment,1,NORTH,Unfurnished,Bachelors/Family,6000 sqft,"Chandanagar, NH",Miyapur,165895.57482736176
+14,3 BHK Apartment,2,immediately,Semi-Furnished,Bachelors/Family,1340 sqft,Aminpur,Miyapur,19346.805553517566
+15,3 BHK Apartment,1,immediately,Unfurnished,Bachelors,1350 sqft,Attapur,Attapur,18803.94284075807
+16,3 BHK Apartment,2,immediately,Unfurnished,Bachelors/Family,1834 sqft,"Gachibowli, Outer Ring Road",Gachibowli,25982.227157311234
+17,2 BHK Builder Floor,2,WEST,Furnished,Bachelors/Family,1130 sqft,Adibatla,Vanasthalipuram,25027.25208131108
+18,3 BHK Apartment,3,SOUNTH,Semi-Furnished,Bachelors/Family,1870 sqft,"Sumukhi Orbit, Madhapur",Madhapur,27467.463745328067
+19,3 BHK Apartment,2,NORTH,Semi-Furnished,Bachelors,1533 sqft,"Ramanthapur, NH",Uppal,22018.611300623335
+20,2 BHK Apartment,1,SOUNTH,Unfurnished,Bachelors,1125 sqft,"Lakshmi Nagar Colony-Hanuman Nagar Colony, Secunderabad",Secunderabad,14577.607810883146
+21,2 BHK Apartment,1,immediately,Semi-Furnished,Bachelors/Family,1300 sqft,"Manikonda, Outer Ring Road",Manikonda,19928.51988244193
+22,4 BHK Builder Floor,1,immediately,Semi-Furnished,Bachelors,1650 sqft,Toli Chowki,Mehdipatnam,25914.176711488402
+23,2 BHK Apartment,1,immediately,Unfurnished,Bachelors,1200 sqft,"Domalguda, Himayath Nagar, NH",Himayatnagar,15956.734851592893
+24,2 BHK Apartment,1,EAST,Furnished,Bachelors,1070 sqft,"Samata Colony, Toli Chowki",Mehdipatnam,24812.23421219157
+25,3 BHK Apartment,4,immediately,Furnished,Bachelors/Family,1800 sqft,Himayatnagar,Himayatnagar,36806.15055119016
+26,2 BHK Apartment,2,WEST,Unfurnished,Bachelors/Family,150 sqft,"Uppal, NH",Uppal,1675.0011012270056
+27,2 BHK Builder Floor,1,WEST,Unfurnished,Bachelors/Family,1000 sqft,"Dilsukh Nagar, NH",Dilshuknagar,12344.9545265489
+28,2 BHK Apartment,2,read more,Semi-Furnished,Bachelors/Family,1100 sqft,"Umas Aadya and Arha Mensions, Kukatpally, NH",KPHB,16298.251776719128
+29,2 BHK Apartment,1,EAST,Furnished,Bachelors/Family,1150 sqft,"Park Stone, Attapur",Attapur,25791.758860152353
+30,2 BHK Apartment,1,WEST,Furnished,Bachelors,1200 sqft,"Green Space Hill Park, Manikonda, Outer Ring Road",Manikonda,26421.09362884182
+31,3 BHK Apartment,2,WEST,Semi-Furnished,Bachelors,1510 sqft,"ARK Homes, Bolarum, Medchal Road",Kompally,21689.904104523855
+32,2 BHK Apartment,2,EAST,Semi-Furnished,Bachelors,1600 sqft,"Banjara Hills, NH",Banjara Hills,22992.04275266224
+33,2 BHK Builder Floor,2,SOUNTH,Unfurnished,Bachelors,1100 sqft,Chikkadpally,Secunderabad,13549.656236272647
+34,3 BHK Apartment,2,read more,Furnished,Bachelors/Family,1800 sqft,"Nallagandla, Serilingampally",Miyapur,32437.457363568286
+35,3 BHK Apartment,2,EAST,Semi-Furnished,Bachelors/Family,2100 sqft,"Ashok Nagar, Himayath Nagar",Himayatnagar,31003.66939891187
+36,2 BHK Apartment,3,read more,Furnished,Bachelors/Family,870 sqft,"Moula Ali, Moula Ali Road",Nacharam,26232.165140047848
+37,3 BHK Apartment,2,read more,Furnished,Bachelors/Family,1500 sqft,Masab Tank,Masab Tank,28826.895479570445
+38,3 BHK Apartment,2,NORTH,Semi-Furnished,Bachelors/Family,1500 sqft,"Chandanagar, NH",Miyapur,21547.857703849095
+39,3 BHK Apartment,2,NORTH,Furnished,Bachelors/Family,1500 sqft,Tarnaka,Tarnaka,28826.895479570445
+40,2 BHK Apartment,1,EAST,Unfurnished,Bachelors/Family,1008 sqft,"Upparpally, Hyderabad Expressway",Attapur,12485.377348371478
+41,2 BHK Apartment,3,SOUNTH,Semi-Furnished,Bachelors,1200 sqft,Suchitra Circle,Kompally,19891.503413370257
+42,2 BHK Apartment,2,WEST,Furnished,Bachelors/Family,1120 sqft,"Basheer Bagh, NH",Nampally,24934.57456758759
+43,3 BHK Apartment,2,NORTH,Furnished,Family,2350 sqft,"Nagarjuna Residency, P Janardhan Reddy Nagar, Gachibowli, Outer Ring Road",Gachibowli,40288.997169300914
+44,3 BHK Apartment,2,NORTH,Semi-Furnished,Family,2500 sqft,"Gachibowli, Outer Ring Road",Gachibowli,38361.812398532275
+45,2 BHK Apartment,1,NORTH,Semi-Furnished,Bachelors/Family,1050 sqft,Masab Tank,Masab Tank,16048.401419929269
+46,3 BHK Apartment,1,NORTH,Semi-Furnished,Bachelors,1711 sqft,"IT Heights, Khaja Guda, Outer Ring Road",Gachibowli,27023.470103588435
+47,3 BHK Apartment,2,SOUNTH,Semi-Furnished,Bachelors/Family,1900 sqft,"Aditya Imperial Heights, Hafeezpet, NH",Kondapur,27640.878459975236
+48,2 BHK Apartment,2,EAST,Unfurnished,Bachelors,1400 sqft,"Ushodaya Enclave, Hafeezpet",Kondapur,18287.92408428011
+49,3 BHK Apartment,2,WEST,Furnished,Family,1690 sqft,"Chandanagar, NH",Miyapur,31058.499141750264
+50,3 BHK Apartment,1,NORTH,Furnished,Bachelors,1648 sqft,"TNR Sulakshna, LB Nagar, NH",LB Nagar,32647.9619750756
+51,2 BHK Apartment,1,SOUNTH,Unfurnished,Bachelors,1314 sqft,"My Home Avatar, Narsingi, Outer Ring Road",Narsingi,18109.79612817655
+52,3 BHK Apartment,2,SOUNTH,Furnished,Bachelors/Family,1550 sqft,Narayanguda,Narayanguda,29395.709901812417
+53,2 BHK Apartment,1,NORTH,Unfurnished,Family,1245 sqft,"NSK Bliss Meadows, Madinaguda, Hafeezpet, NH",Kondapur,16798.44370125805
+54,3 BHK Apartment,3,EAST,Semi-Furnished,Bachelors/Family,2560 sqft,Kompally,Kompally,37742.88613292783
+55,2 BHK Apartment,1,SOUNTH,Furnished,Bachelors/Family,880 sqft,"Happy Homes Colony, Hyderabad Expressway",Attapur,22621.073113058177
+56,3 BHK Apartment,2,SOUNTH,Unfurnished,Family,1400 sqft,Attapur,Attapur,18287.92408428011
+57,3 BHK Apartment,1,EAST,Semi-Furnished,Bachelors,1690 sqft,"My Home Vihanga, Gachibowli, Outer Ring Road",Gachibowli,26639.368250578707
+58,3 BHK Apartment,1,EAST,Semi-Furnished,Bachelors/Family,1350 sqft,Toli Chowki,Mehdipatnam,20744.07864505366
+59,2 BHK Apartment,1,WEST,Semi-Furnished,Bachelors,1000 sqft,"Gachibowli, Outer Ring Road",Gachibowli,15311.91279753593
+60,3 BHK Apartment,1,EAST,Semi-Furnished,Family,1725 sqft,"Honer Vivantis, Nalagandala",Miyapur,27280.82948455183
+61,3 BHK Apartment,2,SOUNTH,Unfurnished,Bachelors/Family,1558 sqft,"Indu Fortune Fields apartments, Hitech City",Hitech City,20974.13953845616
+62,2 BHK Apartment,1,read more,Semi-Furnished,Bachelors/Family,1200 sqft,"Durgabai Deshmukh Colony, Amberpet",Uppal,18336.93742732767
+63,2 BHK Apartment,3,EAST,Unfurnished,Bachelors,1461 sqft,"KKRs Fountainhead, Miyapur, NH",Miyapur,20796.863814248794
+64,3 BHK Builder Floor,2,WEST,Semi-Furnished,Bachelors/Family,1550 sqft,Narayanguda,Narayanguda,22263.36104990413
+65,3 BHK Apartment,2,read more,Semi-Furnished,Family,1920 sqft,"Hyder Nagar, NH",Miyapur,27967.669137042692
+66,2 BHK Apartment,1,SOUNTH,Unfurnished,Bachelors,1000 sqft,Old Bowenpally,Bowenpally,12344.9545265489
+67,3 BHK Apartment,1,NORTH,Furnished,Family,1375 sqft,"Lanco Hills, Manikonda, Outer Ring Road",Manikonda,28727.544878291603
+68,3 BHK Apartment,2,SOUNTH,Semi-Furnished,Bachelors/Family,1920 sqft,"Golf View, Gachibowli, Outer Ring Road",Gachibowli,27967.669137042692
+69,3 BHK Builder Floor,2,immediately,Semi-Furnished,Bachelors/Family,1530 sqft,"Kukatpally Housing Board Colony, NH",KPHB,21975.578308677745
+70,3 BHK Apartment,2,WEST,Semi-Furnished,Bachelors/Family,1685 sqft,"Gachibowli, Outer Ring Road",Gachibowli,24261.04597598455
+71,2 BHK Apartment,1,EAST,Furnished,Bachelors/Family,750 sqft,Masab Tank,Himayatnagar,21231.501551946938
+72,3 BHK Apartment,3,immediately,Semi-Furnished,Bachelors,1750 sqft,"Kaithalapur, Borabanda",Bowenpally,25936.621019183523
+73,3 BHK Apartment,1,immediately,Semi-Furnished,Bachelors/Family,1450 sqft,Friends Colony,Attapur,22414.731240386314
+74,3 BHK Apartment,1,SOUNTH,Semi-Furnished,Bachelors/Family,1900 sqft,"Hill County Township, Bachupally, Outer Ring Road",Miyapur,30584.99657618498
+75,3 BHK Apartment,1,EAST,Semi-Furnished,Family,1650 sqft,"Gachibowli, Outer Ring Road",Gachibowli,25914.176711488402
+76,3 BHK Apartment,3,WEST,Unfurnished,Bachelors,2000 sqft,Begumpet,Begumpet,29028.325988324326
+77,2 BHK Apartment,2,immediately,Semi-Furnished,Bachelors/Family,1100 sqft,military dairy farm rd,Secunderabad,16298.251776719128
+78,2 BHK Apartment,3,NORTH,Unfurnished,Bachelors/Family,1000 sqft,"Swathi Pooja Homes, Dilsukh Nagar, NH",Dilsukh Nagar,14971.641025371933
+79,4 BHK Apartment,2,SOUNTH,Semi-Furnished,Bachelors/Family,2600 sqft,Trimulgherry,Sainikpuri,40333.131715468015
+80,3 BHK Apartment,2,immediately,Semi-Furnished,Bachelors/Family,1400 sqft,"Ameerpet, NH",Ameerpet,20156.38608184821
+81,3 BHK Apartment,3,WEST,Semi-Furnished,Bachelors,2200 sqft,Kothaguda,Kondapur,32068.678436306607
+82,3 BHK Apartment,1,SOUNTH,Semi-Furnished,Bachelors/Family,1750 sqft,"Madinaguda, Hafeezpet, NH",Kondapur,27742.96958725784
+83,3 BHK Apartment,2,SOUNTH,Semi-Furnished,Bachelors/Family,1550 sqft,MADEENAGUDA,Miyapur,22263.36104990413
+84,2 BHK Apartment,2,WEST,Unfurnished,Bachelors,1000 sqft,Bandari Layout,Nizampet,12075.66047389468
+85,4 BHK Builder Floor,2,WEST,Semi-Furnished,Bachelors/Family,4000 sqft,"Saptagiri Colony, Kukatpally, NH",KPHB,73466.51196785594
+86,2 BHK Apartment,2,NORTH,Furnished,Bachelors/Family,1200 sqft,"Padmarao Nagar, Hyderabad-Karimnagar Highway",Secunderabad,25690.75443688296
+87,3 BHK Builder Floor,2,SOUNTH,Unfurnished,Bachelors/Family,1500 sqft,Kakatiya Hills madhapur,Madhapur,19972.77355390712
+88,3 BHK Apartment,2,SOUNTH,Semi-Furnished,Family,1690 sqft,"Gachibowli CUC, Outer Ring Road",Gachibowli,24336.87927651855
+89,3 BHK Apartment,1,WEST,Semi-Furnished,Family,1690 sqft,"My Home Vihanga, Gachibowli, Outer Ring Road",Gachibowli,26639.368250578707
+90,3 BHK Apartment,2,immediately,Semi-Furnished,Bachelors,1500 sqft,"Janapriya Arcadia, Alwal",Alwal,21547.857703849095
+91,3 BHK Apartment,2,SOUNTH,Semi-Furnished,Bachelors/Family,2540 sqft,"NCC Urban One, Narsingi, Outer Ring Road",Narsingi,39144.014514089096
+92,3 BHK Apartment,2,SOUNTH,Semi-Furnished,Bachelors/Family,1680 sqft,"Narsingi, Outer Ring Road",Narsingi,24185.34445901758
+93,2 BHK Apartment,1,NORTH,Furnished,Bachelors/Family,1100 sqft,West Marredpally,Marredpally,25175.602448165948
+94,3 BHK Apartment,1,SOUNTH,Semi-Furnished,Bachelors/Family,1350 sqft,"Ramnagar Gundu, Adikmet, NH",Nallakunta,20744.07864505366
+95,3 BHK Apartment,1,EAST,Semi-Furnished,Bachelors/Family,1750 sqft,"Hyder Nagar, NH",Miyapur,27742.96958725784
+96,3 BHK Builder Floor,2,NORTH,Semi-Furnished,Bachelors/Family,1750 sqft,Bowenpally,Bowenpally,25257.158001154945
+97,2 BHK Apartment,1,NORTH,Semi-Furnished,Bachelors/Family,1300 sqft,"Bachupally, Outer Ring Road",Miyapur,19928.51988244193
+98,4 BHK Apartment,3,NORTH,Semi-Furnished,Bachelors/Family,2550 sqft,"Ameerpet, NH",Ameerpet,37576.044402774
+99,3 BHK Builder Floor,1,SOUNTH,Semi-Furnished,Family,2200 sqft,Kondapur,Kondapur,36624.86618502202
+100,3 BHK Apartment,1,immediately,Semi-Furnished,Family,1660 sqft,"Moti Nagar-Erragadda, NH",Bowenpally,26094.683894858794
+101,3 BHK Apartment,3,EAST,Semi-Furnished,Bachelors/Family,1834 sqft,"Narsingi, Outer Ring Road",Narsingi,27000.24065735069
+102,3 BHK Apartment,1,EAST,Semi-Furnished,Family,1738 sqft,"Prestige Ivy League, Hitech City",Hitech City,27520.73117322982
+103,2 BHK Apartment,1,NORTH,Semi-Furnished,Bachelors/Family,1050 sqft,"Sai Nagar-Komapally, NH",Kompally,16048.401419929269
+104,2 BHK Apartment,1,WEST,Unfurnished,Bachelors/Family,1200 sqft,Balkampet,Ameerpet,15956.734851592893
+105,3 BHK Apartment,1,immediately,Semi-Furnished,Bachelors/Family,1700 sqft,Aminpur,Miyapur,26821.983971021586
+106,2 BHK Builder Floor,1,immediately,Unfurnished,Bachelors,1800 sqft,"Alkapuri, LB Nagar, NH",LB Nagar,28057.198070219132
+107,3 BHK Apartment,2,EAST,Semi-Furnished,Family,1570 sqft,Anjaneyanagar Colony moosapet,KPHB,22553.252328203005
+108,2 BHK Apartment,1,NORTH,Unfurnished,Bachelors,1150 sqft,Adibatla,Vanasthalipuram,15034.022235277298
+109,2 BHK Apartment,2,SOUNTH,Unfurnished,Bachelors/Family,1000 sqft,"Moula Ali, Moula Ali Road",Nacharam,12075.66047389468
+110,2 BHK Apartment,1,WEST,Unfurnished,Family,1060 sqft,Dr A.S. Rao Nagar,ECIL,13406.348984800949
+111,3 BHK Apartment,3,WEST,Semi-Furnished,Bachelors/Family,1870 sqft,"Vajras Jasmine County, Gachibowli, Outer Ring Road",Gachibowli,27467.463745328067
+112,2 BHK Builder Floor,1,immediately,Unfurnished,Bachelors/Family,800 sqft,Sangareddy District,Patancheru,8944.027908753951
+113,3 BHK Apartment,3,immediately,Semi-Furnished,Bachelors/Family,2400 sqft,"Tellapur, Outer Ring Road",Gachibowli,35136.67456264101
+114,3 BHK Apartment,2,immediately,Semi-Furnished,Bachelors/Family,2200 sqft,"Old Malakpet, NH",Dilshuknagar,32764.13500859858
+115,3 BHK Apartment,1,EAST,Unfurnished,Bachelors,2285 sqft,"Lumbini Avenue, Gachibowli, Outer Ring Road",Gachibowli,39225.36198982278
+116,2 BHK Builder Floor,1,EAST,Furnished,Bachelors/Family,850 sqft,Mehdipatnam,Mehdipatnam,22292.4957387799
+117,3 BHK Apartment,2,SOUNTH,Semi-Furnished,Bachelors,1600 sqft,"Vertex Pleasant, Kukatpally, NH",KPHB,22992.04275266224
+118,3 BHK Apartment,1,NORTH,Unfurnished,Bachelors,1500 sqft,"Hima Shiva, New Nallakunta",Nallakunta,21769.756040250835
+119,2 BHK Apartment,1,SOUNTH,Semi-Furnished,Bachelors/Family,1200 sqft,"Chandanagar, NH",Miyapur,18336.93742732767
+120,2 BHK Apartment,1,immediately,Unfurnished,Bachelors,1000 sqft,Jawahar Nagar-Chikkadpally,Secunderabad,12344.9545265489
+121,3 BHK Builder Floor,2,NORTH,Semi-Furnished,Bachelors/Family,1800 sqft,"Kukatpally, NH",KPHB,26038.553130725308
+122,3 BHK Apartment,2,NORTH,Semi-Furnished,Bachelors/Family,2500 sqft,"Srinagar Colony, Old Malakpet, NH",Dilshuknagar,38361.812398532275
+123,3 BHK Apartment,2,read more,Semi-Furnished,Bachelors/Family,2000 sqft,"Manikonda, Outer Ring Road",Manikonda,29295.91721603742
+124,2 BHK Apartment,1,read more,Semi-Furnished,Bachelors/Family,1000 sqft,Begumpet,Begumpet,15311.91279753593
+125,3 BHK Apartment,2,SOUNTH,Unfurnished,Bachelors,1230 sqft,Nizampet,Nizampet,15544.657300448329
+126,2 BHK Apartment,3,read more,Semi-Furnished,Family,2000 sqft,"LB Nagar, NH",LB Nagar,29211.53601722125
+127,3 BHK Apartment,2,read more,Semi-Furnished,Bachelors/Family,1690 sqft,"My Home Vihanga, Gachibowli, Outer Ring Road",Gachibowli,24336.87927651855
+128,2 BHK Builder Floor,1,read more,Unfurnished,Bachelors,1100 sqft,Sivaji Nagar-Chandanagar,Miyapur,14124.487975664766
+129,4 BHK Apartment,2,immediately,Semi-Furnished,Bachelors/Family,2800 sqft,"Banjara Hills, NH",Banjara Hills,44433.91062977631
+130,3 BHK Apartment,1,immediately,Semi-Furnished,Bachelors/Family,1650 sqft,"Gopalnagar Society, Hafeezpet",Kondapur,25914.176711488402
+131,3 BHK Apartment,3,SOUNTH,Semi-Furnished,Bachelors,1150 sqft,"Tilak Nagar, New Nallakunta, NH",Nallakunta,19421.017407605625
+132,3 BHK Apartment,1,EAST,Semi-Furnished,Bachelors,1400 sqft,"Amrutha Avenue, Manikonda, Outer Ring Road",Manikonda,21572.815764368454
+133,2 BHK Apartment,1,immediately,Unfurnished,Bachelors,768 sqft,"Manikonda, Outer Ring Road",Manikonda,8419.446873939469
+134,3 BHK Apartment,2,NORTH,Semi-Furnished,Bachelors/Family,1440 sqft,Mettuguda,Tarnaka,20706.64911943109
+135,2 BHK Builder Floor,1,NORTH,Semi-Furnished,Bachelors/Family,130 sqyrd,Aminpur,Miyapur,17869.74180902178
+136,2 BHK Apartment,1,immediately,Semi-Furnished,Bachelors/Family,1250 sqft,"Golden Heights Colony, Janachaitanya colony, Hyderabad Expressway",Attapur,19126.13947653327
+137,2 BHK Apartment,1,NORTH,Semi-Furnished,Bachelors,1314 sqft,"My Home Avatar, Narsingi, Outer Ring Road",Narsingi,20155.547957617546
+138,3 BHK Apartment,3,SOUNTH,Semi-Furnished,Bachelors/Family,1740 sqft,"Financial District, Nanakram Guda",Gachibowli,25812.477164747605
+139,3 BHK Apartment,2,WEST,Semi-Furnished,Bachelors,1525 sqft,"SMR Sowmya, West Marredpally",Marredpally,21903.96208228873
+140,2 BHK Apartment,1,EAST,Furnished,Bachelors/Family,880 sqft,"Happy Homes Colony, Hyderabad Expressway",Attapur,22621.073113058177
+141,3 BHK Apartment,2,immediately,Unfurnished,Bachelors/Family,1990 sqft,"Aditya Empress Towers, Shaikpet",Attapur,28990.50853965069
+142,2 BHK Builder Floor,1,EAST,Unfurnished,Bachelors/Family,900 sqft,Vidyut Nagar,Patancheru,10618.134504245296
+143,3 BHK Apartment,1,immediately,Unfurnished,Bachelors/Family,1850 sqft,"Aditya Gardenia, Banjara Hills, NH",Banjara Hills,29151.229323674575
+144,2 BHK Builder Floor,1,NORTH,Unfurnished,Bachelors,900 sqft,Mehdipatnam,Mehdipatnam,10618.134504245296
+145,3 BHK Apartment,1,read more,Unfurnished,Bachelors,1500 sqft,"Gayatri Hills, Jubilee Hills",Jubilee Hills,21769.756040250835
+146,2 BHK Apartment,2,WEST,Unfurnished,Bachelors,1500 sqft,"Buddha Nagar Colony, Boduppal",Boduppal,19972.77355390712
